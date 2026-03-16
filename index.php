@@ -1,4 +1,5 @@
-<?php require __DIR__ . '/qifUTOSs2B.php' ?>
+<?php
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
